@@ -19,11 +19,6 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
-.App-link {
-  color: #61dafb;
-}
-
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
@@ -50,7 +45,6 @@ input{
   width: 110px;
   background: #282c34;
   color: white;
-  height: 25px;
 }
 #main{
   size: 20px
